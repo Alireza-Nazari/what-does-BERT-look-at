@@ -1,4 +1,11 @@
-"""Preprocesses dependency parsing data and writes the result as JSON."""
+"""Preprocesses dependency parsing data and writes the result as JSON.
+
+1- Structured Data Representation: JSON is a standardized, structured format that organizes data into key-value pairs
+2- Data Portability and Readability
+3- Efficient Data Handling
+4- Standardized Storage for Training
+
+"""
 
 import argparse
 import os
